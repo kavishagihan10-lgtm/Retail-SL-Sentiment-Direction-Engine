@@ -5,7 +5,7 @@
 
 ### 1. Live Chart Overview & Core Direction Logic
 
-[මෙතනට ඔයාගේ ෆොටෝ එක Drag & Drop කරන්න]
+[
 
 Built in **Pine Script™ v5** (`overlay=false`), the core purpose of this indicator is to determine **market direction and stretch** on a fixed higher timeframe (default `240` / 4H, with `lookahead=barmerge.lookahead_off` to prevent repainting/future leakage).
 
