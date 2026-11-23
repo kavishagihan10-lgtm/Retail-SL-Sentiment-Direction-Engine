@@ -1,4 +1,5 @@
 
+
 # 📈 Multi-Factor Market Sentiment Proxy Oscillator (`-50` to `+50`)
 **Pine Script™ v5 Fixed-Timeframe Market Direction & Sentiment Engine — Identifying Extreme Zones, Turn Points, Zero-Line Shifts & Live Bias**
 
@@ -45,3 +46,4 @@ Five normalized market components are combined and smoothed with an EMA into a `
 
 - **Enter Greed Zone** / **Enter Fear Zone**
 - **Leave Greed Zone (`SELL bias`)** / **Leave Fear Zone (`BUY bias`)**
+<img width="2816" height="1536" alt="Gemini_Generated_Image_ac0za0ac0za0ac0z" src="https://github.com/user-attachments/assets/b0ae6088-ae28-4535-bad7-6e1a94094b8c" />
