@@ -1,3 +1,4 @@
+
 # 📈 Multi-Factor Market Sentiment Proxy Oscillator (`-50` to `+50`)
 **Pine Script™ v5 Fixed-Timeframe Market Direction & Sentiment Engine — Identifying Extreme Zones, Turn Points, Zero-Line Shifts & Live Bias**
 
@@ -5,7 +6,7 @@
 
 ### 1. Live Chart Overview & Core Direction Logic
 
-[
+<img width="1835" height="1079" alt="XAUUSD_2026-11-23_06-06-40" src="https://github.com/user-attachments/assets/b6558878-bddb-45db-9159-49e8ddc1d8d7" />
 
 Built in **Pine Script™ v5** (`overlay=false`), the core purpose of this indicator is to determine **market direction and stretch** on a fixed higher timeframe (default `240` / 4H, with `lookahead=barmerge.lookahead_off` to prevent repainting/future leakage).
 
